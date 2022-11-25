@@ -19,7 +19,6 @@ dictionary = {".jpeg": "Images",
               ".json": "Documents",
               ".mp3": "Musics",
               ".wav": "Musics",
-              ".torrent": "Torrent"
               }
 
 print("  ╔═══════════════════════════════════════╗")
